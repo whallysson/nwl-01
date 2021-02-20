@@ -1,20 +1,20 @@
 <h4 align="center">
-  <img src="https://github.com/whallysson/nwl-01/assets/logo.svg" alt="logo" height="65"/>
+  <img src="https://github.com/whallysson/nwl-01/blob/master/assets/logo.svg" alt="logo" height="65"/>
   <br><br>
-  ♻️ Seu marketplace de coleta de resíduos ♻️
+  ♻️ Uma aplicação de coleta de resíduos ♻️
 </h4>
 
 <h1 align="center">
-    🚀 NLW 1
+    NLW 1
 </h1>
 
 <p align="center">Aplicação Next Level Week 1ª Edição</p>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=node&message=12.13.1&color=339933&logo=node.js" />
-  <img src="https://img.shields.io/static/v1?label=html&message=5.0&color=61DAFB&logo=html" />
-  <img src="https://img.shields.io/static/v1?label=css&message=3.0&color=0088CC&logo=css" />
   <img src="https://img.shields.io/static/v1?label=js&message=ecma2018&color=yellow&logo=javascript" />
+  <img src="https://img.shields.io/static/v1?label=html&message=5.0&color=61DAFB&logo=html" />
+  <img src="https://img.shields.io/static/v1?label=node&message=12.13.1&color=339933&logo=node.js" />
+  <img src="https://img.shields.io/static/v1?label=css&message=3.0&color=0088CC&logo=css" />
   <img src="https://img.shields.io/badge/last%21commit-february-important" />
   <img src="https://img.shields.io/badge/license-MIT-success"/>
 </p>
